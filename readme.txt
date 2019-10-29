@@ -13,4 +13,8 @@ Creating a new branch is quick AND simple
 >>>>>>> feature1
 Creating a new branch is quick and simple
 2019.10.25 8:26
+<<<<<<< HEAD
 Git is a free software
+=======
+2019.10.29 16:28
+>>>>>>> dev
